@@ -19,7 +19,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-Tom Li, tom@qvivo.com
+Tom Li, nklizhe@gmail.com
 
 ## License
 

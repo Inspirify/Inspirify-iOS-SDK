@@ -1,8 +1,8 @@
 # Uncomment this line to define a global platform for your project
 # platform :ios, '7.0'
 
-target "Demo" do
-  pod "Inspirify-iOS-SDK", :path => "../"
+target "SpriteGame" do
+  pod "Inspirify-iOS-SDK", :path => "../../"
 end
 
 # Uncomment the following lines to add testing dependencies
